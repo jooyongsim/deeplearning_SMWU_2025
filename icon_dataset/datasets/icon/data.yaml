@@ -1,0 +1,5 @@
+names:
+  0: icon
+  1: panel
+path: /content/datasets/icon
+train: train.txt

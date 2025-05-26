@@ -1,0 +1,2 @@
+images/train/0001.png
+images/train/0002.png
